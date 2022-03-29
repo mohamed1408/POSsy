@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "81a0afe0-a1db-4879-a655-1e4781fabc0a": {
+      "ProjectGuid": "81a0afe0-a1db-4879-a655-1e4781fabc0a",
+      "DisplayName": "POS",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

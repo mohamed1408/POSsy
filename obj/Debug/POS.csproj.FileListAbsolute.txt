@@ -14,3 +14,7 @@ C:\Users\Alan\source\repos\POS\obj\Debug\POS.csproj.GenerateResource.cache
 C:\Users\Alan\source\repos\POS\obj\Debug\POS.csproj.CoreCompileInputs.cache
 C:\Users\Alan\source\repos\POS\obj\Debug\POS.exe
 C:\Users\Alan\source\repos\POS\obj\Debug\POS.pdb
+C:\Users\Alan\source\repos\POS\obj\Debug\Page1.g.cs
+C:\Users\Alan\source\repos\POS\obj\Debug\Page2.g.cs
+C:\Users\Alan\source\repos\POS\obj\Debug\Page1.baml
+C:\Users\Alan\source\repos\POS\obj\Debug\Page2.baml
